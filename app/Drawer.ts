@@ -1,7 +1,5 @@
 
 import Drawable from './shapes/Drawable'
-import Circle from './shapes/Circle'
-import Ball from './shapes/Ball'
 import Colors from './colors'
 import Spiral from './shapes/Spiral';
 
